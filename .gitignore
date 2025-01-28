@@ -1,0 +1,6 @@
+*.jpg
+*.png
+*.exe
+*.txt
+venv/
+*.log
