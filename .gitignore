@@ -1,7 +1,9 @@
 *.jpg
 *.png
+!/img/*.png
 *.exe
 *.txt
 !requirements.txt
+!img
 venv/
 *.log
